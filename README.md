@@ -24,6 +24,32 @@ Here's a very interesting article by Sergey Ioffe and Christian Szegedy to help 
 
 >Training Deep Neural Networks is complicated by the fact that the distribution of each layer's inputs changes during training, as the parameters of the previous layers change. This slows down the training by requiring lower learning rates and careful parameter initialization, and makes it notoriously hard to train models with saturating nonlinearities. We refer to this phenomenon as internal covariate shift, and address the problem by normalizing layer inputs. Our method draws its strength from making normalization a part of the model architecture and performing the normalization for each training mini-batch. Batch Normalization allows us to use much higher learning rates and be less careful about initialization. It also acts as a regularizer, in some cases eliminating the need for Dropout. Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin. Using an ensemble of batch-normalized networks, we improve upon the best published result on ImageNet classification: reaching 4.9% top-5 validation error (and 4.8% test error), exceeding the accuracy of human raters.
 
-## Registering a user
+## Registering a User and Signing In
+
+This is a very simple and straightforward process that "does what it says on the tin". However, I would be remiss if I didn't include it in the README.md file. That's what it's for, eh! 🙂
+
+To register:
+* Click on the "Register" navigational button at the top right hand side of the initial page, this will take you to the registration form
+* Fill in your name and email address
+* Then choose a password
+* Once you have done that, you will automatically be signed in to your profile
+
+Here's that process:
+
+<img src="https://github.com/Pedginald/face-finder/blob/main/readMeDocs/register.gif" width="50%"/>
+
+To sign in:
+*
+*
+
+<img src="https://github.com/Pedginald/face-finder/blob/main/readMeDocs/sign-in.gif" width="50%"/>
 
 ## Tech Stack
+
+This is a full stack application built using the PERN stack:- PostgreSQL, Express, Node, and React.
+
+### React
+
+### Node and Express
+
+### PostgreSQL
