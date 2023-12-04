@@ -54,6 +54,10 @@ This is a full stack application built using the PERN stack:- PostgreSQL, Expres
 
 ### React
 
+A fantastic JavaScript library that enables the development and usage of simple, modular, and reusable components, whicht allows for a very efficient and streamlined devlopment process. It's implementation of the virtual DOM makes rendering super fast, and dramatically enhances user experience. It's a lightweight package, which lends itself to performant and productive projects. Another bonus of using React is having the ability to use React Router for client side routing. This adds to the performance of the app, as it means that it can update the URL from a link click without making another request for another document from the server.
+
 ### Node and Express
+
+
 
 ### PostgreSQL
