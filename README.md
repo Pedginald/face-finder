@@ -39,8 +39,12 @@ Here's that process:
 <img src="https://github.com/Pedginald/face-finder/blob/main/readMeDocs/register.gif" width="50%"/>
 
 To sign in:
-*
-*
+* Click on the "Sign In" navigational button at the top right hand corner of the initial page, this will take you to the sign in page
+* Enter your email address in the first field
+* Enter your password in the second field
+* Hit the "Sign In" button, and you're in!
+
+Here's that process:
 
 <img src="https://github.com/Pedginald/face-finder/blob/main/readMeDocs/sign-in.gif" width="50%"/>
 
