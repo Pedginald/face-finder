@@ -58,7 +58,7 @@ A fantastic JavaScript library that enables the development and usage of simple,
 
 ### Node and Express
 
-Node was used in the application in order to write the server side in JavaScript. It's super fast runtime environment allows for effiecient development processes as well as affording it easy scalability. Express is a Node JS framewoek that is great at handling requests, serving files, and handling HTTP methods. It is time efficient, fast, economical, and asynchronous.
+Node was used in the application in order to write the server side in JavaScript. It's super fast runtime environment allows for effiecient development processes as well as affording it easy scalability. Express is a Node JS framework that is great at handling requests, serving files, and handling HTTP methods. It is time efficient, fast, economical, and asynchronous.
 
 ### PostgreSQL
 
