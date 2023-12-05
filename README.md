@@ -62,3 +62,4 @@ Node was used in the application in order to write the server side in JavaScript
 
 ### PostgreSQL
 
+Using PostgreSQL was a no-brainer. It's the most advanced open source relational database system in the world. There are no licencing costs, meaning it is completely free to use. It is also very secure, reliable, extensively functional, and highly scalable.
